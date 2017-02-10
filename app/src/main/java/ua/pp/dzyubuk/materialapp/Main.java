@@ -38,6 +38,7 @@ public class Main extends AppCompatActivity {
         tabs.addTab(tabs.newTab().setText("Tab 1"));
         tabs.addTab(tabs.newTab().setText("Tab 2"));
         tabs.addTab(tabs.newTab().setText("Tab 3"));
+        tabs.addTab(tabs.newTab().setText("Tab 4"));
     }
 
 
