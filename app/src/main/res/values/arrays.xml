@@ -205,14 +205,6 @@
         deserunt mollit anim id est laborum.
         </item>
     </string-array>
-    <!--<string-array name="place_locations">-->
-        <!--<item>8 Rue Scribe, 75009 Paris, France</item>-->
-        <!--<item>Piazza del Capitolo - 50122 Florence</item>-->
-        <!--<item>New York City</item>-->
-        <!--<item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>-->
-        <!--<item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>-->
-        <!--<item>Cape Town, South Africa</item>-->
-    <!--</string-array>-->
     <array name="screen_sml">
         <item>@drawable/w7_sml_01</item>
         <item>@drawable/w7_sml_02</item>
@@ -261,14 +253,6 @@
         <item>@drawable/w7_full_21</item>
         <item>@drawable/w7_full_22</item>
     </array>
-    <string-array name="place_locations">
-        <item>8 Rue Scribe, 75009 Paris, France</item>
-        <item>Piazza del Capitolo - 50122 Florence</item>
-        <item>New York City</item>
-        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
-        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
-        <item>Cape Town, South Africa</item>
-    </string-array>
     <array name="place_avator">
         <item>@drawable/w7_sml_01</item>
         <item>@drawable/w7_sml_02</item>

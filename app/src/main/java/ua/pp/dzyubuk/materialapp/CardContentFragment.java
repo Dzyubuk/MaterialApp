@@ -64,7 +64,7 @@ public class CardContentFragment extends Fragment {
             Resources resources = context.getResources();
             mPlaces = resources.getStringArray(R.array.screenshots);
             mPlaceDesc = resources.getStringArray(R.array.screen_desc);
-            TypedArray a = resources.obtainTypedArray(R.array.screen_full);
+            TypedArray a = resources.obtainTypedArray(R.array.screen_sml);
             mPlacePictures = new Drawable[a.length()];
             for (int i = 0; i < mPlacePictures.length; i++) {
                 mPlacePictures[i] = a.getDrawable(i);
